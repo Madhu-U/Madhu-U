@@ -6,12 +6,20 @@ Previously a Systems Engineer at Infosys.
 
 #### 🛠️ Tech Stack
 
-**Languages:** JavaScript · TypeScript · Java · C# · Go  
-**Frontend:** React · Next.js · Redux Toolkit · Material-UI · Vite  
-**Backend:** Node.js · Express  
-**Database:** MongoDB  
-**Testing:** Playwright  
-**Tools:** Git · GitHub Actions · Vercel
+**Languages**  
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,go" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,redux,materialui,vite" />
+
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+**Testing**  
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+**Tools**  
+<img src="https://skillicons.dev/icons?i=git,githubactions,vercel" />
 
 #### 📫 Connect
 
