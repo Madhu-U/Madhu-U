@@ -1,10 +1,10 @@
-### Hi, I'm Madhu 👋
+### Hi, I'm Madhu
 
 Full Stack Developer at [Laughing Water Productions](https://lwp.live). I build and ship production web platforms for live music and arts, including the site for [Dakshin](https://dakshin.live), a Carnatic music festival in London.
 
 Previously a Systems Engineer at Infosys.
 
-#### 🛠️ Tech Stack
+#### Tech Stack
 
 **Languages**  
 <img src="https://skillicons.dev/icons?i=js,ts,java,cs,go" />
@@ -21,6 +21,6 @@ Previously a Systems Engineer at Infosys.
 **Tools**  
 <img src="https://skillicons.dev/icons?i=git,githubactions,vercel" />
 
-#### 📫 Connect
+#### Connect
 
 [LinkedIn](https://linkedin.com/in/madhu-u) · [Portfolio](https://portfolio-madhu-u.vercel.app) · [Email](mailto:umadhu.20@gmail.com)
